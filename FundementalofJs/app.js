@@ -66,3 +66,8 @@ const number=[1,2,3,4,6];
 number.push(7)
 console.log(number);
 
+
+// Data types
+//primitive data type
+//reference data types
+
